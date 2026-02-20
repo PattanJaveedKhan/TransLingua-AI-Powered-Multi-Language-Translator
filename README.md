@@ -139,15 +139,21 @@ This project reflects real-world AI integration and follows best practices suita
 ## Author
 
 Internship Program: SmartBridge Virtual Internship
+
 Domain: Cloud Generative AI
 
 Project Title:
+
 TransLingua – AI-Powered Multi-Language Translator
 
 Team Leader:
+
 Pattan Javeed Khan
 
 Team Members:
+
 Shaik Aaliya Sulthana
+
 Pradhamakavi Hima Kiran
+
 Palla Sruthi
