@@ -111,7 +111,7 @@ Generated translated output
 
 You can access the deployed application here:
 
-🔗 https://translingua-fwy6updl26wgchz89mqnna.streamlit.app
+🔗 https://translingua-ai-powered-multi-language-translator-bqjtvhsnjuvtu.streamlit.app/
 he TransLingua AI-Powered Language Translator is deployed and accessible online.
 ## Security Practices
 
@@ -138,11 +138,13 @@ This project reflects real-world AI integration and follows best practices suita
 
 ## Author
 
-Internship Program: SmartBridge Virtual Internship
+## Internship Program :
+SmartBridge Virtual Internship
 
-Domain: Cloud Generative AI
+## Domain:
+Cloud Generative AI
 
-Project Title:
+## Project Title:
 
 TransLingua – AI-Powered Multi-Language Translator
 
