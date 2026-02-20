@@ -138,8 +138,16 @@ This project reflects real-world AI integration and follows best practices suita
 
 ## Author
 
-*Bellary Abubakar (abubakarmr)*
+Internship Program: SmartBridge Virtual Internship
+Domain: Cloud Generative AI
 
-*Gaddam Charan kumar Reddy*
+Project Title:
+TransLingua – AI-Powered Multi-Language Translator
 
-Internship Project – AI & Cloud Application Development
+Team Leader:
+Pattan Javeed Khan
+
+Team Members:
+Shaik Aaliya Sulthana
+Pradhamakavi Hima Kiran
+Palla Sruthi
