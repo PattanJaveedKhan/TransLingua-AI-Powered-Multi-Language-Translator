@@ -112,7 +112,7 @@ Generated translated output
 You can access the deployed application here:
 
 🔗 https://translingua-ai-powered-multi-language-translator-bqjtvhsnjuvtu.streamlit.app/
-he TransLingua AI-Powered Language Translator is deployed and accessible online.
+The TransLingua AI-Powered Language Translator is deployed and accessible online.
 ## Security Practices
 
 API keys are stored securely using environment variables
