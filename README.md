@@ -138,11 +138,11 @@ This project reflects real-world AI integration and follows best practices suita
 
 ## Author
 
-# Team Leader:
+### Team Leader:
 
 Pattan Javeed Khan
 
-# Team Members:
+### Team Members:
 
 Shaik Aaliya Sulthana
 
