@@ -97,7 +97,7 @@ python -m streamlit run translang.py
 ```
 
 Demo Video Link:
-https://drive.google.com/file/d/1LVzBo9V1yNKRni1WUaTZsW1Wo5DmX_Zo/view
+https://drive.google.com/file/d/1LVzBo9V1yNKRni1WUaTZsW1Wo5DmX_Zo/view?usp=sharing
 
 The demo video shows:
 
